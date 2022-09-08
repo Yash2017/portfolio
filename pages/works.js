@@ -7,12 +7,6 @@ import inradiusHomePage from '../public/images/works/Inradius_Story_BG.jpg'
 import pathFindingPage from '../public/images/works/pathfinding1080.png'
 import thumbFourPainters from '../public/images/works/CCWProper.png'
 import thumbMenkiki from '../public/images/works/bugMain.png'
-import thumbMargelo from '../public/images/works/margelo_eyecatch.png'
-import thumbModeTokyo from '../public/images/works/modetokyo_eyecatch.png'
-import thumbStyly from '../public/images/works/styly_eyecatch.png'
-import thumbPichu2 from '../public/images/works/pichu2_eyecatch.png'
-import thumbFreeDBTagger from '../public/images/works/freedbtagger_eyecatch.png'
-import thumbAmembo from '../public/images/works/amembo_eyecatch.png'
 
 const Works = () => (
   <Layout title="Works">
